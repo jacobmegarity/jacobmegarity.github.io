@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Homepage
+permalink: /homepage/
 ---
 
-# About Me
-
-Write a short bio here!
+# Jacob Megarity
