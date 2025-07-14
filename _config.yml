@@ -2,7 +2,6 @@ title: Jacob Megarity
 description: Personal website
 theme: minima
 
-# Add navigation links
 header_pages:
   - index.md
   - about.md
