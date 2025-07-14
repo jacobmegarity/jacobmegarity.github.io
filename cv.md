@@ -6,4 +6,4 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-- [Your experience, education, skills, etc.]
+- List your CV details here.
