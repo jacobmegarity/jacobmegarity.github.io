@@ -6,4 +6,4 @@ permalink: /about/
 
 # About Me
 
-Hi! My name is Jacob Megarity!
+This is my about page.
