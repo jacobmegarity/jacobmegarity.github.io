@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Jacob Megarity
+# title: Jacob Megarity
 author: Jacob Megarity
 description: > # Meta description of Homepage
   Personal website for Jacob Megarity.
@@ -30,6 +30,7 @@ email: ja.megarity@gmail.com # Replace with your email
 twitter_username: # leave blank or add your username
 github_username:  jacobmegarity
 instagram_username: # leave blank or add your username
+linkedin_username: jacob-megarity
 
 disqus:
   shortname: # Leave blank, or add your Disqus shortname if you want comments
