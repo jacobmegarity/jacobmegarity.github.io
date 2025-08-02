@@ -1,4 +1,7 @@
-# Sleek
+# jacobmegarity.github.io
+
+This is my personal website, built using the [Sleek][(https://github.com/janczizikow/sleek)] Jekyll theme.
+
 
 ## License
 
