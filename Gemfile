@@ -1,4 +1,6 @@
-# frozen_string_literal: true
+# Sleek Jekyll Theme
 
 source "https://rubygems.org"
-gemspec
+
+# Specify your gem's dependencies in sleek.gemspec
+gem "jekyll", "~> 4.4.1"
