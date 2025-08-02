@@ -1,0 +1,64 @@
+# SITE CONFIGURATION
+title: Jacob Megarity
+author: Jacob Megarity
+description: > # Meta description of Homepage
+  Personal website for Jacob Megarity.
+
+# For a user site repo, baseurl should be empty and url should be your GitHub Pages URL
+baseurl: "" # No subpath for user site repos
+url: "https://jacobmegarity.github.io"
+
+# SEO PLUGIN
+social:
+  name: Jacob Megarity
+  links:
+    - https://github.com/jacobmegarity # GitHub profile
+    - https://www.linkedin.com/in/jacob-megarity/ # LinkedIn profile
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
+  - {name: 'CV', link: '/cv'} # Add this for your CV page
+
+tagline: >
+  Modern Jekyll theme focused on speed, performance & SEO best practices
+
+hero_img: posts/sleek_lg.jpg # Update if you have a different hero image; Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: ja.megarity@gmail.com # Replace with your email
+
+twitter_username: # leave blank or add your username
+github_username:  jacobmegarity
+instagram_username: # leave blank or add your username
+
+disqus:
+  shortname: # Leave blank, or add your Disqus shortname if you want comments
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
