@@ -21,8 +21,7 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'CV', link: '/cv'} # Add this for your CV page
 
-tagline: >
-  Modern Jekyll theme focused on speed, performance & SEO best practices
+# tagline: >
 
 hero_img: posts/sleek_lg.jpg # Update if you have a different hero image; Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
@@ -63,4 +62,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-  remote_theme: janczizikow/sleek
+remote_theme: janczizikow/sleek
