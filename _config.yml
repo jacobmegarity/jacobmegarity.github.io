@@ -64,3 +64,6 @@ plugins:
   - jekyll-seo-tag
 
 remote_theme: janczizikow/sleek
+
+homepage_message: >
+  Hello! My name is Jacob Megarity and this is my personal website. Here, I hope to showcase a little about myself and my journey to where I currently am today, which might not necessarily be conveyed through my CV or LinkedIn.<br>
