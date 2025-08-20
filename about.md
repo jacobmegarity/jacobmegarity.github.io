@@ -12,20 +12,29 @@ In the upcoming fall, I plan to apply to graduate programs in physical oceanogra
 
 Outside of work and school, I enjoy reading (big fan of fiction, particularly fantasy), watching sports (mainly hockey - go Dallas Stars!), spending time with my dogs Louie and Maya, going to the gym, and finding exciting new movies and TV shows to watch.
 
+<style>
+table, td, tr {
+  border: none !important;
+  outline: none !important;
+}
+</style>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center">
-      <img src="/assets/img/main_imgs/Personal_Image.jpg" alt="Jacob Megarity" width="220"/><br>
+    <td align="center" style="border: none;">
+      <img src="/assets/img/main_imgs/Personal_Image.jpg" alt="Jacob Megarity"
+        style="width:260px; height:290px; object-fit:cover; border-radius: 5%;" /><br>
       <em>Tokopah Falls - Sequoia National Park</em>
     </td>
-    <td align="center">
-      <img src="/assets/img/main_imgs/Louie.jpg" alt="Louie" width="220"/><br>
-      <em>Here is my dog Louie at the park with his tennie!</em>
+    <td align="center" style="border: none;">
+      <img src="/assets/img/main_imgs/Louie.jpg" alt="Louie"
+        style="width:260px; height:290px; object-fit:cover; border-radius: 5%;" /><br>
+      <em>Louie at the park with his tennie</em>
     </td>
-    <td align="center">
-      <img src="/assets/img/main_imgs/Maya.jpg" alt="Maya" width="220"/><br>
-      <em>Maya enjoying her time resting on the couch.</em>
+    <td align="center" style="border: none;">
+      <img src="/assets/img/main_imgs/Maya.jpg" alt="Maya"
+        style="width:250px; height:290px; object-fit:cover; border-radius: 5%;" /><br>
+      <em>Maya enjoying time on the couch</em>
     </td>
   </tr>
 </table>
