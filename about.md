@@ -17,6 +17,7 @@ Outside of work and school, I enjoy reading (big fan of fiction, particularly fa
   <tr>
     <td align="center">
       <img src="/assets/img/main_imgs/Personal_Image.jpg" alt="Jacob Megarity" width="220"/><br>
+      <em>Tokopah Falls - Sequoia National Park</em>
     </td>
     <td align="center">
       <img src="/assets/img/main_imgs/Louie.jpg" alt="Louie" width="220"/><br>
