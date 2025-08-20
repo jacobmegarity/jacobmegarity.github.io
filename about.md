@@ -16,14 +16,14 @@ Outside of work and school, I enjoy reading (big fan of fiction, particularly fa
 <table>
   <tr>
     <td align="center">
-      <img src="/assets/img/Personal_Image.jpg" alt="Jacob Megarity" width="220"/><br>
+      <img src="/assets/img/main_imgs/Personal_Image.jpg" alt="Jacob Megarity" width="220"/><br>
     </td>
     <td align="center">
-      <img src="/assets/img/Louie.jpg" alt="Louie" width="220"/><br>
+      <img src="/assets/img/main_imgs/Louie.jpg" alt="Louie" width="220"/><br>
       <em>Here is my dog Louie at the park with his tennie!</em>
     </td>
     <td align="center">
-      <img src="/assets/img/Maya.jpg" alt="Maya" width="220"/><br>
+      <img src="/assets/img/main_imgs/Maya.jpg" alt="Maya" width="220"/><br>
       <em>Maya enjoying her time resting on the couch.</em>
     </td>
   </tr>
