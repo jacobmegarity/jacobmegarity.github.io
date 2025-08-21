@@ -12,7 +12,7 @@ In the upcoming fall, I plan to apply to graduate programs in physical oceanogra
 
 Outside of work and school, I enjoy reading (big fan of fiction, particularly fantasy), watching sports (mainly hockey - go Dallas Stars!), spending time with my dogs Louie and Maya, going to the gym, and finding exciting new movies and TV shows to watch.
 
-<style>
+<!-- <style>
 table, td, tr {
   border: none !important;
   outline: none !important;
@@ -37,4 +37,75 @@ table, td, tr {
       <em>Maya enjoying time on the couch</em>
     </td>
   </tr>
-</table>
+</table> -->
+
+<style>
+.fixed-row-imgs {
+  display: flex;
+  flex-wrap: nowrap;         /* Always in a single row */
+  justify-content: center;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.img-cell {
+  flex: 1 1 0;               /* All cells grow/shrink equally */
+  max-width: 350px;          /* Optional: limits max image size on big screens */
+  min-width: 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img-frame {
+  width: 100%;
+  aspect-ratio: 4/5;         /* Keeps all images at same aspect ratio (e.g. 4:5 = 260x325) */
+  overflow: hidden;
+  border-radius: 5%;
+  background: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.img-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.caption {
+  min-height: 2.5em;
+  display: block;
+  font-style: italic;
+  color: #444;
+  line-height: 1.3;
+  margin: 0;
+}
+</style>
+
+<div class="fixed-row-imgs">
+  <div class="img-cell">
+    <div class="img-frame">
+      <img src="/assets/img/main_imgs/Personal_Image.jpg" alt="Jacob Megarity">
+    </div>
+    <span class="caption">Tokopah Falls - Sequoia National Park</span>
+  </div>
+  <div class="img-cell">
+    <div class="img-frame">
+      <img src="/assets/img/main_imgs/Louie.jpg" alt="Louie">
+    </div>
+    <span class="caption">Louie at the park with his tennie</span>
+  </div>
+  <div class="img-cell">
+    <div class="img-frame">
+      <img src="/assets/img/main_imgs/Maya.jpg" alt="Maya">
+    </div>
+    <span class="caption">Maya enjoying time on the couch</span>
+  </div>
+</div>
