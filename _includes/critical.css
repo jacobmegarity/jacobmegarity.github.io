@@ -19,7 +19,7 @@ svg:not(:root){overflow:hidden}
 }
 /* FIX: Increase header logo container width for long text */
 .header__logo .header__logo--container {
-  width: 320px;
+  width: 182px;
 }
 ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
 html{-webkit-box-sizing:border-box;box-sizing:border-box}
