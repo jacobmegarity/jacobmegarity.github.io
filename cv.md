@@ -5,8 +5,8 @@ permalink: /cv/
 ---
 
 <!-- <div style="display: flex; justify-content: center; width: 100%;">
-    <iframe src="/assets/JacobMegarityCV.pdf" width="120%" height="1000px" style="border: none;">
-  This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/JacobMegarityCV.pdf">Download PDF</a>
+    <iframe src="/assets/CVCopy4Website.pdf" width="120%" height="1000px" style="border: none;">
+  This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/CVCopy4Website.pdf">Download PDF</a>
     </iframe>
 </div>
 -->
@@ -38,10 +38,10 @@ permalink: /cv/
 </style>
 
 <div class="pdf-responsive-container">
-  <iframe src="/assets/JacobMegarityCV.pdf">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/JacobMegarityCV.pdf">Download PDF</a>
+  <iframe src="/assets/CVCopy4Website.pdf">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/CVCopy4Website.pdf">Download PDF</a>
   </iframe>
 </div>
 <div style="text-align: center; margin-top: 1em;">
-  <a href="/assets/JacobMegarityCV.pdf" download>Download CV as PDF</a>
+  <a href="/assets/CVCopy4Website.pdf" download>Download CV as PDF</a>
 </div>
